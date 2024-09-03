@@ -1,9 +1,18 @@
-# CramSession
+# Cram Session
 
- Cram Session provides an online platform for users to share and access educational content, so that they can learn
-more effectively as sharing notes with others can provide an opportunity for feedback and suggestions for
-improvement This website can be used by students, educators, and professionals to share notes, summaries,
-outlines, and other types of written materials related to various subjects and topics
+**Cram Session** is an online platform designed for the seamless sharing and access of educational content. It caters to students, educators, and professionals by providing a user-friendly environment to share notes, summaries, outlines, and other written materials.
+
+## Features
+
+- **Seamless Content Sharing**: Users can easily upload and access educational materials.
+- **Robust Backend**: Powered by Spring Boot and Hibernate for efficient data management and user authentication.
+
+## Tech Stack
+
+- **Backend**: Spring Boot, Hibernate, MySQL
+- **Frontend**: HTML, CSS, Bootstrap
+
+## Visuals
 
 1.index page is-BeforeHome.jsp
 
